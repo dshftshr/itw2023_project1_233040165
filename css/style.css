@@ -425,7 +425,6 @@ header.sticky .nav-bar{
 
 .skill-description h3{
     font-size: 2em;
-    margin-bottom: 5px;
 }
 
 .skills-info{
@@ -438,6 +437,7 @@ header.sticky .nav-bar{
 
 .skills-info h4{
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .skills-info h4 label{
